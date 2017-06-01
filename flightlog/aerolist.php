@@ -25,6 +25,7 @@ $aero = array (		// code OACI => FullName , geographic bounds, airfield altitude
 	'LFNT'=> array('AVIGNON Pujaut',"l.rec='LFNT' AND l.alt < 745 AND (l.lat BETWEEN 43.98762 AND 44.00531 ) AND (l.lon BETWEEN 4.74227 AND 4.76744)",45,''),	
 	'YBSS'=> array('BACCHUS MARSH',"l.rec='YBSS' AND l.alt < 858 AND (l.lat BETWEEN -37.74409 AND -37.72142) AND (l.lon BETWEEN 144.40977 AND 144.44024)",158,''),
 	'EDRA'=> array('Bad Neuenahr Ahrweiler',"l.rec='EDRA' AND l.alt < 905 AND (l.lat BETWEEN 50.5553 AND 50.5618 ) AND (l.lon BETWEEN 7.1245 AND 7.1451)",205,''),
+	'LOIH'=> array('HOHENEMS',"l.rec='LOIH' AND (l.alt < 700 AND (l.lat BETWEEN 47.35000 AND 47.36000) AND (l.lon BETWEEN 9.66000 AND 9.71000)",412,''),
 	'LFCB'=> array('BAGNERES DE LUCHON',"l.rec='LFCB' AND l.alt < 1318 AND (l.lat BETWEEN 42.79324 AND 42.80681 ) AND (l.lon BETWEEN 0.596734 AND 0.60394)",618,''),
 	'LFFL'=> array('BAILLEAU Armenonville',"l.rec='LFFL' AND l.alt < 855 AND (l.lat BETWEEN 48.51097 AND 48.52369 ) AND (l.lon BETWEEN 1.6242 AND 1.64514)",155,''),
 	'EBKH'=> array('BALEN KEIHEUVEL',"l.rec='EBKH' AND l.alt < 740 AND (l.lat BETWEEN 51.17558 AND 51.1859 ) AND (l.lon BETWEEN 5.20555 AND 5.23645)",40,''),
